@@ -3,7 +3,7 @@
 This code accompanies the publication 
 
 ```
-Laube A, Hüllebrand M, Ter-Minassian L, Uden T, et.al. Stratification of Pediatric Patients with Myocarditis using Radiomic Signatures in Late Gadolinium Enhancement Cardiovascular MRI. (Submitted). 2024.
+Laube, A. P., Huellebrand,… Hennemuth, A. (2026). Stratification of children with myocarditis using radiomics signatures in LGE cardiovascular MRI. Computer Methods and Programs in Biomedicine, 109469. https://doi.org/10.1016/j.cmpb.2026.109469
 ```
 
 #### Phantom Analysis
